@@ -1,0 +1,10 @@
+
+
+dir
+
+
+
+
+copy con test1.txt
+copy con test1.txt
+test1파일입니다.
